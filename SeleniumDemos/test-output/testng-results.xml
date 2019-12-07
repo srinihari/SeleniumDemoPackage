@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2019-12-06T13:19:48 IST" name="softwaretestingmaterial" finished-at="2019-12-06T13:21:03 IST" duration-ms="75180">
+    <groups>
+    </groups>
+    <test started-at="2019-12-06T13:19:48 IST" name="testngTest" finished-at="2019-12-06T13:21:03 IST" duration-ms="75180">
+      <class name="DriverInitiate.TestDriverInitial">
+        <test-method is-config="true" signature="startDriver(java.lang.String)[pri:0, instance:DriverInitiate.TestDriverInitial@18137eab]" started-at="2019-12-06T13:19:48 IST" name="startDriver" finished-at="2019-12-06T13:19:59 IST" duration-ms="11253" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startDriver -->
+        <test-method signature="orderHomePage()[pri:0, instance:DriverInitiate.TestDriverInitial@18137eab]" started-at="2019-12-06T13:19:59 IST" name="orderHomePage" finished-at="2019-12-06T13:20:19 IST" duration-ms="19250" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- orderHomePage -->
+        <test-method signature="orderLoginPage()[pri:1, instance:DriverInitiate.TestDriverInitial@18137eab]" started-at="2019-12-06T13:20:19 IST" name="orderLoginPage" finished-at="2019-12-06T13:20:30 IST" duration-ms="11544" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- orderLoginPage -->
+        <test-method signature="orderdDashboardPage()[pri:2, instance:DriverInitiate.TestDriverInitial@18137eab]" started-at="2019-12-06T13:20:30 IST" name="orderdDashboardPage" finished-at="2019-12-06T13:20:37 IST" duration-ms="6708" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- orderdDashboardPage -->
+        <test-method signature="wishListPage()[pri:3, instance:DriverInitiate.TestDriverInitial@18137eab]" started-at="2019-12-06T13:20:37 IST" name="wishListPage" finished-at="2019-12-06T13:20:42 IST" duration-ms="4908" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- wishListPage -->
+        <test-method signature="wishListCreate()[pri:4, instance:DriverInitiate.TestDriverInitial@18137eab]" started-at="2019-12-06T13:20:42 IST" name="wishListCreate" finished-at="2019-12-06T13:20:45 IST" duration-ms="3359" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- wishListCreate -->
+        <test-method signature="viewWishList()[pri:5, instance:DriverInitiate.TestDriverInitial@18137eab]" started-at="2019-12-06T13:20:45 IST" name="viewWishList" finished-at="2019-12-06T13:20:46 IST" duration-ms="1032" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- viewWishList -->
+        <test-method is-config="true" signature="SendEmail()[pri:0, instance:DriverInitiate.TestDriverInitial@18137eab]" started-at="2019-12-06T13:20:46 IST" name="SendEmail" finished-at="2019-12-06T13:21:03 IST" duration-ms="16721" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SendEmail -->
+        <test-method is-config="true" signature="emailsent()[pri:0, instance:DriverInitiate.TestDriverInitial@18137eab]" started-at="2019-12-06T13:21:03 IST" name="emailsent" finished-at="2019-12-06T13:21:03 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- emailsent -->
+      </class> <!-- DriverInitiate.TestDriverInitial -->
+    </test> <!-- testngTest -->
+  </suite> <!-- softwaretestingmaterial -->
+</testng-results>
